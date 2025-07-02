@@ -10,7 +10,7 @@ import { Languages } from "./Languages";
 import { SoftSkills } from "./SoftSkills";
 
 export const Resume: React.FC = () => {
-  const name = "John Doe";
+  const name = "John Doe 2";
   const jobTitle = "Frontend Developer";
 
   return (
